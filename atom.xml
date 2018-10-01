@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-01T08:51:20.936Z</updated>
+  <updated>2018-10-01T13:34:42.182Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>时间关系</title>
+    <link href="http://yoursite.com/2018/09/22/first/"/>
+    <id>http://yoursite.com/2018/09/22/first/</id>
+    <published>2018-09-22T09:30:46.000Z</published>
+    <updated>2018-10-01T13:34:42.182Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/2.jpg" alt="2"><br><a id="more"></a><br><img src="/images/first/f1.png" alt="f1"><br><img src="/images/first/f2.png" alt="f2"><br><img src="/images/first/f3.png" alt="f3"><br><img src="/images/first/f4.png" alt="f4"><br><img src="/images/first/f5.png" alt="f5"><br><img src="/images/first/f6.png" alt="f6"><br><img src="/images/first/f7.png" alt="f7"><br><img src="/images/first/f8.png" alt="f8"><br><img src="/images/first/f9.png" alt="f9"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/2.jpg&quot; alt=&quot;2&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="note" scheme="http://yoursite.com/categories/note/"/>
+    
+    
+      <category term="日语" scheme="http://yoursite.com/tags/%E6%97%A5%E8%AF%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>这是测试</title>
